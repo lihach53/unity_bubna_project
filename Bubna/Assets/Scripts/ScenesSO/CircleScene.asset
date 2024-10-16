@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06e7a58538f33c446b74d5029003c9e3, type: 3}
+  m_Name: CircleScene
+  m_EditorClassIdentifier: 
+  name: CircleScene
+  lenght: 1
+  width: 1
+  sceneModel: {fileID: 190975941367322367, guid: 03e2258068424794c8c5a8a49d4cd56f,
+    type: 3}
+  clone: {fileID: 0}
+  sceneObjects: []
